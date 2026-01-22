@@ -1,6 +1,7 @@
-# Olá, sou o Lucas 👋
+Olá, sou o Lucas 👋  
 
-Estudante de desenvolvimento Android com foco em Kotlin, Jetpack Compose e MVVM, em transição de carreira para tecnologia. Profissional com 13+ anos de experiência corporativa nas áreas administrativa, operações e supply chain, reconhecido como referência em automação e transformação digital.
+Estudante de desenvolvimento Android, com foco em **Kotlin**, **Jetpack Compose** e **arquitetura MVVM**, em transição de carreira para tecnologia.
+Profissional com **13+ anos de experiência corporativa** nas áreas administrativa, operações e supply chain, reconhecido como referência em **automação** e **transformação digital**, aplicando tecnologia para otimização de processos e tomada de decisão.
 
 ## 👨‍💻 Tech Stack
 - Kotlin
