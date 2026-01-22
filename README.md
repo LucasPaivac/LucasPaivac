@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Lucas 👋
 
-<!--
-**LucasPaivac/LucasPaivac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Android focado no desenvolvimento Android moderno.
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech Stack
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Coroutines & Flow
+- Retrofit / OkHttp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+Confira meus repositórios fixados abaixo 👇
+
+### 🍲 EasyRecipes
+Aplicativo para descobrir receitas usando a API Spoonacular  
+➡️ MVVM • Jetpack Compose • StateFlow • API Optimization
+
+### 🍲 TipsCalculator
+Aplicativo para dividir o valor de uma conta entre um grupo de pessoas considerando a taxa de serviço 
+➡️ ViewBinding • Intent 
+
+## 📫 Contact
+- [LinkedIn]([url](https://www.linkedin.com/in/lucas-paiva-cedro-149452122/))
+- Email: paivacedrodev@gmail.com
