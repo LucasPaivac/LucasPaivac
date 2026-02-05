@@ -1,7 +1,6 @@
-Olá, sou o Lucas 👋  
+Olá, sou o Lucas 👋  - "Desenvolvedor Android | Transição de 13 anos na aviação para engenharia de software móvel"
 
-Estudante de desenvolvimento Android, com foco em **Kotlin**, **Jetpack Compose** e **arquitetura MVVM**, em transição de carreira para tecnologia.
-Profissional com **13+ anos de experiência corporativa** nas áreas administrativa, operações e supply chain, reconhecido como referência em **automação** e **transformação digital**, aplicando tecnologia para otimização de processos e tomada de decisão.
+Desenvolvedor Android focado em **Kotlin** e **Jetpack Compose**, com sólida experiência em automação de dados e soluções escaláveis. Transição de carreira apoiada por mais de **13 anos de experiência** corporativa na LATAM Airlines, onde liderei projetos internacionais e implementei e mantive suporte de ferramentas utilizadas em filiais em demais países. Atualmente especializado em **arquitetura MVVM**, **Clean Architecture** e **Testes Unitários com Fake e Mock**.
 
 ## 👨‍💻 Tech Stack
 - Kotlin
