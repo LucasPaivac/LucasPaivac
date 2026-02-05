@@ -8,18 +8,23 @@ Desenvolvedor Android focado em **Kotlin** e **Jetpack Compose**, com sólida ex
 - MVVM
 - Coroutines & Flow
 - Retrofit / OkHttp
+- Unit Testing (Turbine, Mockito, Fake)
+
+## 🌱 Currently learning
+ - Dependency Injection (Hilt/Koin)
 
 ## 🚀 Projetos em destaque
 Confira meus repositórios fixados abaixo 👇
 
-### 🍲 EasyRecipes
-Aplicativo para descobrir receitas usando a API Spoonacular  
-➡️ MVVM • Jetpack Compose • StateFlow • API Optimization
+### 🍲 [EasyRecipes](https://github.com/LucasPaivac/EasyRecipes)
+*Assistente de cozinha moderno usando a API Spoonacular* **Highlights:** - Arquitetura robusta com **MVVM** e **Clean Architecture**.
+- IU reativa com **Jetpack Compose** e **StateFlow**.
+- Base de código confiável com **Unit Tests** (Turbine, Flow & Mockito).
+- Abordagem offline-first (se aplicável).
 
-### 🍲 TipsCalculator
-Aplicativo para dividir o valor de uma conta entre um grupo de pessoas considerando a taxa de serviço 
-➡️ ViewBinding • Intent 
+### 🍲 [TipsCalculator](https://github.com/LucasPaivac/TipsCalculator)
+*Utilidade prática para despesas de grupo* **Highlights:** ViewBinding • Material Design • Activity Lifecycle & Intents.
 
 ## 📫 Contact
-- [LinkedIn]([url](https://www.linkedin.com/in/lucas-paiva-cedro-149452122/))
+- [LinkedIn](linkedin.com/in/lucas-paiva-cedro-149452122/) 
 - Email: paivacedrodev@gmail.com
