@@ -16,6 +16,13 @@ Desenvolvedor Android focado em **Kotlin** e **Jetpack Compose**, com sólida ex
 ## 🚀 Projetos em destaque
 Confira meus repositórios fixados abaixo 👇
 
+### 🎬 [CineApp](https://github.com/LucasPaivac/CineApp)
+Exploração de catálogo de filmes utilizando a API do TMDB Highlights:
+- Arquitetura & Clean Code: Implementação rigorosa de MVVM, Clean Architecture e Mappers para separação de responsabilidades.
+- Otimização de Performance: Uso de append_to_response para reduzir o consumo de rede e Lazy Layouts para fluidez de scroll.
+- UI Imersiva: Design moderno com Jetpack Compose, utilizando gradientes dinâmicos e alinhamentos de imagem avançados.
+- Qualidade de Software: Cobertura de lógica de negócio com Unit Tests utilizando Turbine, MockK e objetos Fake.
+
 ### 🍲 [EasyRecipes](https://github.com/LucasPaivac/EasyRecipes)
 *Assistente de cozinha moderno usando a API Spoonacular* **Highlights:** - Arquitetura robusta com **MVVM** e **Clean Architecture**.
 - IU reativa com **Jetpack Compose** e **StateFlow**.
