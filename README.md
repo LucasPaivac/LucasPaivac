@@ -3,21 +3,23 @@ Olá, sou o Lucas 👋  - "Desenvolvedor Android | Transição de 13 anos na avi
 Desenvolvedor Android focado em **Kotlin** e **Jetpack Compose**, com sólida experiência em automação de dados e soluções escaláveis. Transição de carreira apoiada por mais de **13 anos de experiência** corporativa na LATAM Airlines, onde liderei projetos internacionais e implementei e mantive suporte de ferramentas utilizadas em filiais em demais países. Atualmente especializado em **arquitetura MVVM**, **Clean Architecture** e **Testes Unitários com Fake e Mock**.
 
 ## 👨‍💻 Tech Stack
-- Kotlin
-- Jetpack Compose
-- MVVM
-- Coroutines & Flow
-- Retrofit / OkHttp
-- Unit Testing (Turbine, Mockito, Fake)
+- Linguagem: Kotlin
+- UI: Jetpack Compose
+- Arquitetura: MVVM, Clean Architecture, SOLID
+- DI: Hilt (Dagger)
+- Assincronia: Coroutines & Flow
+- Rede/Dados: Retrofit, OkHttp & Room
+- Testes: Unit Testing (Turbine, MockK, Fake Objects)
 
 ## 🌱 Currently learning
- - Dependency Injection (Hilt/Koin)
+ - Firebase: Implementação de Autenticação (Google/Email), Cloud Firestore para persistência em nuvem e Crashlytics para monitoramento de estabilidade.
 
 ## 🚀 Projetos em destaque
 Confira meus repositórios fixados abaixo 👇
 
 ### 🎬 [CineApp](https://github.com/LucasPaivac/CineApp)
 Exploração de catálogo de filmes utilizando a API do TMDB Highlights:
+- Dependency Injection: Implementação completa com Hilt, utilizando @Module, @Provides e @Binds para um grafo de dependências desacoplado.
 - Arquitetura & Clean Code: Implementação rigorosa de MVVM, Clean Architecture e Mappers para separação de responsabilidades.
 - Otimização de Performance: Uso de append_to_response para reduzir o consumo de rede e Lazy Layouts para fluidez de scroll.
 - UI Imersiva: Design moderno com Jetpack Compose, utilizando gradientes dinâmicos e alinhamentos de imagem avançados.
