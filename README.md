@@ -1,6 +1,6 @@
 Olá, sou o Lucas 👋
 
-Desenvolvedor Android Nativo especializado em **Kotlin** e **Jetpack Compose**. Domínio em fluxos reativos e assíncronos com **Coroutines** e **Flow**, além de sólida prática em **Testes Unitários** (**Mocks, Fakes e Turbine**). Foco em arquiteturas escaláveis (**MVVM, Clean Architecture**) e injeção de dependência com **Hilt**. Minha atuação une o conhecimento técnico moderno a uma bagagem de 13 anos na LATAM Airlines, onde desenvolvi a capacidade analítica e a inteligência emocional necessárias para gerir crises e entregar resultados sob pressão em escala global.
+Desenvolvedor Android Nativo especializado em **Kotlin** e **Jetpack Compose**. Domínio em fluxos reativos e assíncronos com **Coroutines** e **Flow**, além de sólida prática em **Testes Unitários** (**Mocks, Fakes e Turbine**). Foco em arquiteturas escaláveis (**MVVM, Clean Architecture**) e injeção de dependência com **Hilt**.
 
 ## 👨‍💻 Tech Stack
 - Linguagem: Kotlin
