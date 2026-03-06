@@ -1,6 +1,6 @@
-Olá, sou o Lucas 👋  - "Desenvolvedor Android | Transição de 13 anos na aviação para engenharia de software móvel"
+Olá, sou o Lucas 👋
 
-Desenvolvedor Android focado em **Kotlin** e **Jetpack Compose**, com sólida experiência em automação de dados e soluções escaláveis. Transição de carreira apoiada por mais de **13 anos de experiência** corporativa na LATAM Airlines, onde liderei projetos internacionais e implementei e mantive suporte de ferramentas utilizadas em filiais em demais países. Atualmente especializado em **arquitetura MVVM**, **Clean Architecture** e **Testes Unitários com Fake e Mock**.
+Desenvolvedor Android Nativo especializado em **Kotlin** e **Jetpack Compose**. Domínio em fluxos reativos e assíncronos com **Coroutines** e **Flow**, além de sólida prática em **Testes Unitários** (**Mocks, Fakes e Turbine**). Foco em arquiteturas escaláveis (**MVVM, Clean Architecture**) e injeção de dependência com **Hilt**. Minha atuação une o conhecimento técnico moderno a uma bagagem de 13 anos na LATAM Airlines, onde desenvolvi a capacidade analítica e a inteligência emocional necessárias para gerir crises e entregar resultados sob pressão em escala global.
 
 ## 👨‍💻 Tech Stack
 - Linguagem: Kotlin
@@ -17,6 +17,14 @@ Desenvolvedor Android focado em **Kotlin** e **Jetpack Compose**, com sólida ex
 ## 🚀 Projetos em destaque
 Confira meus repositórios fixados abaixo 👇
 
+### 🕒 [JornadaCerta](https://github.com/LucasPaivac/JornadaCerta)
+Assistente preventivo de controle de jornada com notificações inteligentes e persistência offline.
+ - Sistema de Notificações Ativo: Implementação avançada de AlarmManager e BroadcastReceiver para agendamento de lembretes em background, garantindo pontualidade mesmo com o app encerrado.
+ - Arquitetura & Clean Code: Estrutura baseada em MVVM e Clean Architecture, utilizando Hilt para uma injeção de dependências modular com escopos de Singleton e ViewModel.
+ - Persistência Robusta: Gerenciamento de histórico de registros com Room Database, garantindo integridade de dados e suporte a operações assíncronas com Kotlin Coroutines.
+ - UX com Validação Dinâmica: Interface reativa em Jetpack Compose (Material 3) com validação de regras de negócio em tempo real para evitar registros de saída antecipada.
+ - Modern Android Standards: Tratamento completo de permissões para Android 12+ (SCHEDULE_EXACT_ALARM) e Android 13+ (POST_NOTIFICATIONS), com suporte nativo a Dark & Light Mode.
+
 ### 🎬 [CineApp](https://github.com/LucasPaivac/CineApp)
 Exploração de catálogo de filmes utilizando a API do TMDB Highlights:
 - Dependency Injection: Implementação completa com Hilt, utilizando @Module, @Provides e @Binds para um grafo de dependências desacoplado.
@@ -30,9 +38,6 @@ Exploração de catálogo de filmes utilizando a API do TMDB Highlights:
 - IU reativa com **Jetpack Compose** e **StateFlow**.
 - Base de código confiável com **Unit Tests** (Turbine, Flow & Mockito).
 - Abordagem offline-first (se aplicável).
-
-### 🍲 [TipsCalculator](https://github.com/LucasPaivac/TipsCalculator)
-*Utilidade prática para despesas de grupo* **Highlights:** ViewBinding • Material Design • Activity Lifecycle & Intents.
 
 ## 📫 Contact
 - [LinkedIn](linkedin.com/in/lucas-paiva-cedro-149452122/) 
