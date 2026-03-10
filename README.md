@@ -40,5 +40,5 @@ Exploração de catálogo de filmes utilizando a API do TMDB Highlights:
 - Abordagem offline-first (se aplicável).
 
 ## 📫 Contact
-- [LinkedIn](linkedin.com/in/lucas-paiva-cedro-149452122/) 
+- [LinkedIn](https://www.linkedin.com/in/lucas-paiva-cedro-149452122/) 
 - Email: paivacedrodev@gmail.com
