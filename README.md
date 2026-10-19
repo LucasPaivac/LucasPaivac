@@ -17,6 +17,15 @@ Desenvolvedor Android Nativo especializado em **Kotlin** e **Jetpack Compose**. 
 ## 🚀 Projetos em destaque
 Confira meus repositórios fixados abaixo 👇
 
+### 🎲 LivToys · [Google Play](https://play.google.com/store/apps/details?id=com.lucasdev.livplay)
+App oficial de uma luderia, publicado na Google Play, com mesas de jogo, acervo, sorteios e notificações em tempo real.
+
+* Push Notifications Ponta a Ponta: Firebase Cloud Messaging no app e Cloud Functions em TypeScript, disparadas por eventos do Firestore, para avisar sobre novas mesas, participantes, cupons e resultados de sorteios.
+* Arquitetura & Clean Code: Estrutura em MVVM e Clean Architecture com Hilt, qualifiers customizados (@DispatcherIO, @ApplicationScope) e mappers centralizados entre as camadas.
+* Local-First & Tempo Real: Room como cache local, sincronizado com listeners do Firestore encapsulados em callbackFlow. A tela abre com os dados salvos e se atualiza ao vivo.
+* Integração com API Externa: Consumo da API do BoardGameGeek (XML) com Retrofit, kotlinx.serialization e xmlutil, para montar o acervo com capas e metadados oficiais.
+* Segurança & Modern Android Standards: Login com Google via Credential Manager, Firebase App Check (Play Integrity), Crashlytics, Remote Config e tema claro/escuro, com targetSdk 36.
+
 ### 🕒 [JornadaCerta](https://github.com/LucasPaivac/JornadaCerta)
 Assistente preventivo de controle de jornada com notificações inteligentes e persistência offline.
  - Sistema de Notificações Ativo: Implementação avançada de AlarmManager e BroadcastReceiver para agendamento de lembretes em background, garantindo pontualidade mesmo com o app encerrado.
